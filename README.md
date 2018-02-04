@@ -18,3 +18,7 @@
 >>> <pre> >> [C:\Users\hank\Desktop\Yueh_Lin_Tsou_lab2\4\a>python 4_a.py]
 
 >>> (c) The program will show the result image
+
+>>> ![4_a_bf](https://user-images.githubusercontent.com/28382639/35773272-f12e05dc-0901-11e8-991e-f3b2739c1237.jpg)
+
+>>> 
